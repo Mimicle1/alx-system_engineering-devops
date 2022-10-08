@@ -1,2 +1,2 @@
-#!/bin/hash
-cd -la
+#!/bin/bash
+ls -la
