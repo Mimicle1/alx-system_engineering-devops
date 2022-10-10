@@ -1,3 +1,3 @@
 #!/bin/bash
-printf 'Hello, World\n\n'
+echo "Hello, World"
 
